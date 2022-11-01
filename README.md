@@ -1,5 +1,5 @@
 # Traffic-Light
-STM32 동호회] Traffic Light
+STM32 동호회] 개인프로젝트 1 - Traffic Light
 
 - **개발 필요성 :** 신호등이 폭설로 인해 사고의 발생을 방지하고자 신호등 발열 시스템을 제작
 하게되었습니다.
